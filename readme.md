@@ -4,4 +4,4 @@ Esse site foi feito com base em um [design no Figma](https://www.figma.com/file/
 
 
 
-![Alt text](![Alt text](image.png))
+![Alt text](image.png))
